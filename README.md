@@ -14,6 +14,9 @@ Android 手机下 仿 微信 客户端 界面 -- 微聊 （包括聊天列表 + 
 
 <p><strong>apk体验地址：</strong></p>
 
-<a href ="demo/apk/app-debug-v1.0.apk">apk 1.0 下载</>
+<a href ="demo/apk/app-debug-v1.0.apk?raw=true">apk 1.0 点击下载</a>
 
-![apk 1.0](demo/apk/qrcode_v1.0.png)
+
+或者扫描下方二维码：
+
+![或者 apk 1.0 二维码](demo/apk/qrcode_v1.0.png)

@@ -25,7 +25,8 @@
         android:singleLine="true"
         android:text="标题"
         android:textColor="@color/white"
-        android:textSize="16sp"/>
+        android:textSize="16sp"
+        android:visibility="gone" />
 
     <TextView
         android:id="@+id/detail_bar_center_title"

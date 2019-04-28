@@ -1,11 +1,13 @@
 <resources>
     <string name="app_name">微聊</string>
+    <string name="cur_version">v1.0</string>
 
     <string name="main_tab_index_name">微聊</string>
     <string name="main_tab_discover_name">发现</string>
     <string name="main_tab_mine_name">我的</string>
 
     <string name="mine_tab_setting">设置</string>
+    <string name="mine_tab_about_us">关于我们</string>
     <string name="mine_tab_clear">清除缓存</string>
     <string name="mine_tab_look">看一看</string>
     <string name="message_detail_title">对话</string>
